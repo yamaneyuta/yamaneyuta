@@ -21,6 +21,8 @@
 
 [![WP Plugin](https://github-readme-stats.vercel.app/api/pin/?username=yamaneyuta&repo=serendipity-wp-plugin)](https://github.com/yamaneyuta/serendipity-wp-plugin)
 
+![Static Badge](https://img.shields.io/badge/License-Split_License-97ca00) [![CI](https://github.com/yamaneyuta/serendipity-wp-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/yamaneyuta/serendipity-wp-plugin/actions/workflows/ci.yml)
+
 
 ## 📌 公開ライブラリ
 PHP7.4でも動作するULID生成ライブラリ  
