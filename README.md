@@ -30,7 +30,7 @@ PHP7.4でも動作するULID生成ライブラリ
 
 [![yamaneyuta/ulid](https://github-readme-stats.vercel.app/api/pin/?username=yamaneyuta&repo=php-ulid)](https://github.com/yamaneyuta/php-ulid)
 
-![License](https://img.shields.io/github/license/yamaneyuta/php-ulid) ![Packagist Downloads](https://img.shields.io/packagist/dt/yamaneyuta/ulid)
+![License](https://img.shields.io/github/license/yamaneyuta/php-ulid) ![Packagist Downloads](https://img.shields.io/packagist/dt/yamaneyuta/ulid) ![Test](https://github.com/yamaneyuta/php-ulid/actions/workflows/test.yml/badge.svg?branch=main)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaneyuta&layout=donut)](https://github.com/yamaneyuta/github-readme-stats) -->
